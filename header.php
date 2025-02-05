@@ -1,7 +1,6 @@
 <!doctype html>
 <html lang="en">
 
-<!-- Mirrored from imagesmedspa.com/ by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 16 Jan 2025 17:50:51 GMT -->
 <!-- Added by HTTrack -->
 <meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
 
@@ -10,15 +9,16 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <title>Medical Spa in Chicago, IL | The Complete Image | Images Med Spa</title>
-    <meta name="description"
-        content="Images is a Medical Spa in Chicago, IL, offering top of the line aesthetic treatments by professional providers to help you look and feel your best.">
+    <title>Tutor</title>
+    <meta name="description" content="Tutor">
     <link rel="canonical" href="index#">
     <link href="../www.datocms-assets.com/119812/1712002467-favicona2a1.png?auto=format,compress&amp;w=96" rel="icon"
         type="image/x-icon">
 
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
 
-    <meta property="og:title" content="Medical Spa in Chicago, IL | The Complete Image | Images Med Spa">
+
+    <meta property="og:title" content="Tutor">
     <meta property="og:description"
         content="Images is a Medical Spa in Chicago, IL, offering top of the line aesthetic treatments by professional providers to help you look and feel your best.">
     <meta property="og:type" content="Website">
@@ -4543,10 +4543,10 @@
 
         .mod_home_hero .row .section.left-side .inner .video-container {
             width: 100%;
-            height: calc(100vh - 98px);
+            height: calc(116vh - -29px);
             position: sticky;
             top: 98px;
-            overflow: hidden
+            overflow: hidden;
         }
 
         @media only screen and (max-width: 64em) {
@@ -6780,7 +6780,7 @@
             content: "";
             position: relative;
             padding: 10px;
-            background: url("../www.datocms-assets.com/119812/1708490330-phone-iconb447.png?auto=format,compress") no-repeat center center;
+            background: url("https://www.datocms-assets.com/119812/1708490330-phone-icon.png?auto=format,compress") no-repeat center center;
             background-size: auto 100% !important;
             display: inline-block
         }
@@ -6790,7 +6790,7 @@
         }
 
         footer.partial_footer .right-holder .inner a.tel+a.tel:before {
-            background: url("../www.datocms-assets.com/119812/1708490335-text-iconb447.png?auto=format,compress") no-repeat center center
+            background: url("https://www.datocms-assets.com/119812/1708490335-text-icon.png?auto=format,compress") no-repeat center center
         }
 
         footer.partial_footer .address {
@@ -13161,9 +13161,9 @@
 
         .mod_contact_form .row .partial_form .submit-holder .btn.disabled,
         .mod_newsletter_form .row .partial_form .submit-holder .btn.disabled {
-            background: #606148;
-            color: #fff;
-            opacity: .3
+            background: #D5E5DD !important;
+            color: #48614E;
+
         }
 
         .mod_contact_form.dark:before,
@@ -13313,8 +13313,8 @@
         }
 
         .mod_newsletter_form {
-            background: #606148;
-            margin-top: 0
+            background: #48614E;
+            margin-top: 0;
         }
 
         .mod_newsletter_form .row * {
@@ -13330,8 +13330,17 @@
         }
 
         .mod_newsletter_form .row form .fields .field input {
-            color: #606148
-        }
+    color: white;
+    background: transparent;
+    border-left: none;
+    border-top: none;
+    border-right: none;
+    border-radius: 0px;
+    font-size: 22px;
+}
+
+
+
 
         .mod_newsletter_form .row .submit-holder .btn {
             background: none !important;
@@ -22058,7 +22067,7 @@
         }
 
         .mod_focus_areas_slider {
-            background: #606148 !important
+            background: transparent !important
         }
 
         .mod_focus_areas_slider .row {
@@ -31006,7 +31015,7 @@
                 </div>
             </div>
         </div>
-        <div class="menu">
+        <!-- <div class="menu">
             <div class="row nav-links">
                 <nav class="tresio-nav" data-type-desktop="horizontal" data-type-tablet="hamburger"
                     data-type-mobile="hamburger" data-variant-desktop="focus" data-variant-tablet="default"
@@ -31787,8 +31796,7 @@
 
 
                                         <li class="partial_nav_item" data-s3-partial>
-                                            <a
-                                                href="before-and-after/injectable-treatment/dysport/index#">Dysport</a>
+                                            <a href="before-and-after/injectable-treatment/dysport/index#">Dysport</a>
                                         </li>
 
 
@@ -31796,8 +31804,7 @@
 
 
                                         <li class="partial_nav_item" data-s3-partial>
-                                            <a
-                                                href="before-and-after/injectable-treatment/juvederm/index#">Juvéderm</a>
+                                            <a href="before-and-after/injectable-treatment/juvederm/index#">Juvéderm</a>
                                         </li>
 
 
@@ -31839,8 +31846,7 @@
 
 
                                         <li class="partial_nav_item" data-s3-partial>
-                                            <a
-                                                href="before-and-after/injectable-treatment/sculptra/index#">Sculptra</a>
+                                            <a href="before-and-after/injectable-treatment/sculptra/index#">Sculptra</a>
                                         </li>
 
                                     </ul>
@@ -31876,8 +31882,7 @@
 
 
                                         <li class="partial_nav_item" data-s3-partial>
-                                            <a
-                                                href="before-and-after/skin-treatment/photofacial/index#">Photofacial</a>
+                                            <a href="before-and-after/skin-treatment/photofacial/index#">Photofacial</a>
                                         </li>
 
 
@@ -31905,8 +31910,7 @@
 
 
                                         <li class="partial_nav_item" data-s3-partial>
-                                            <a
-                                                href="before-and-after/body-treatment/semaglutide/index#">Semaglutide</a>
+                                            <a href="before-and-after/body-treatment/semaglutide/index#">Semaglutide</a>
                                         </li>
 
 
@@ -31971,1058 +31975,5 @@
 
                 </nav>
             </div>
-        </div>
-    </header>
-    <!--[endlocalize]-->
-    <main id="main">
-
-        <!-- Page Layout -->
-        <!-- Home Hero Module -->
-        <div class="mod_home_hero  " data-s3-module>
-            <div class="row">
-                <div class="section left-side">
-                    <div class="inner">
-                        <!-- <picture class="logo">
-                            <source media="(max-width:420px)" srcset=" 2x" data-lazyload-srcset="images/logo.png 2x">
-                            <source media="(max-width:800px)" srcset="images/logo.png 2x"
-                                data-lazyload-srcset="images/logo.png 2x">
-                            <source srcset="images/logo.png" data-lazyload-srcset="images/logo.png">
-                            <img src="images/logo.png" width="1000" height="73" alt="Images Med Spa logo"
-                                draggable="false" data-api-key=logo>
-                        </picture> -->
-                        <!-- <div class="title-container">
-                            <div class="title" role="heading">
-                                <div class="heading one" role="heading" aria-level="2"><span class="block">Feel
-                                    </span><em>beautiful </em><span class="block">from the </span><em>inside</em> out
-                                </div>
-                                <div class="heading two" role="heading" aria-level="2"><br>Keep <em>your </em><span
-                                        class="block">skin ahead </span>of the <em>game</em></div>
-                            </div>
-                        </div> -->
-                        <div class="video-container">
-                            <img src="images/header.png" alt="">
-                            <img src="images/slider2.png" alt="">
-                            <img src="images/slider3.png" alt="">
-                            <!-- <video class="background one" muted autoplay loop preload img src="images/header.png" alt=""
-                                title="Woman Laughing and showing off her glowing skin" playsinline=""
-                                data-desktop-vid="https://videos.tresiocdn.com/M32hoA01aOCI7lEEJVCqlXBfaGmj1iM5L/high.mp4"
-                                data-tablet-vid="https://videos.tresiocdn.com/M32hoA01aOCI7lEEJVCqlXBfaGmj1iM5L/medium.mp4"
-                                data-mobile-vid="https://videos.tresiocdn.com/M32hoA01aOCI7lEEJVCqlXBfaGmj1iM5L/low.mp4"></video> -->
-
-                           
-                            <video class="background two" muted autoplay loop
-                                title="Woman showing Face in Cosmetic Consutlation Video Thumbnail"
-                                data-lazyload="video" playsinline=""
-                                data-desktop-vid="https://videos.tresiocdn.com/M32hoA01aOCI7lEEJVCqlXBfaGmj1iM5L/high.mp4"
-                                data-tablet-vid="https://videos.tresiocdn.com/M32hoA01aOCI7lEEJVCqlXBfaGmj1iM5L/medium.mp4"
-                                data-desktop-vid="https://videos.tresiocdn.com/M32hoA01aOCI7lEEJVCqlXBfaGmj1iM5L/high.mp4"
-                                data-tablet-vid="https://videos.tresiocdn.com/ER5vUJO3D012aajL5GmwgcvdyP01iS3ZD7/medium.mp4"
-                                data-mobile-vid="https://videos.tresiocdn.com/ER5vUJO3D012aajL5GmwgcvdyP01iS3ZD7/low.mp4"></video>
-                            <img src="images/slider3.png" alt="">
-                        </div>
-                    </div>
-                </div>
-                <div class="section right-side">
-                    <div class="inner">
-                        <div class="h1-container">
-                            <h1><span class="top">Learn Anywhere <br>
-                                    Anytime.</span> <span class="bottom"></span></h1>
-                        </div>
-                        <div class="button-link">
-                            <a href="treatment/index#" class="arrow-link top">BOOK A LESSON NOW</a>
-                        </div>
-                        <div class="lower-container">
-                            <div class="image-container">
-                                <picture class="background">
-                                   <img src="images/rightslide2.png" alt="">
-                                </picture>
-                            </div>
-                            <div class="copy">
-                                <div class="title" role="heading" aria-level="2"><span class="block-tablet-up">
-                                        <em>Expert Tutors, </em></span> Personalized <br> Learning <span
-                                        class="block-phone"><span class="block-tablet-up"><em></em></span>
-                                    </span></div>
-                                <div class="content">
-                                    <p>Discover a platform where education meets innovation. Our experienced tutors
-                                        tailor lessons to match your unique learning style and goals. Achieve academic
-                                        excellence with personalized support every step of the way!</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="scroll"></div>
-            </div>
-        </div>
-
-        <!-- Home Grid Module -->
-        <div class="mod_home_grid viewport container option-1" data-s3-module>
-            <div class="row ">
-                <h2><span class="small">Focus Areas</span> Let's Start with your goals</h2>
-                <div class="grid">
-                    <div class="item">
-                        <div class="media">
-                            <img src="images/1.png" alt="">
-                            <!-- <p class="title">Rejuvenation <span>By Images</span></p> -->
-                        </div>
-                        <div class="content">
-                            <h3 class="title">Rejuvenation <span>By Images</span></h3>
-                            <div class="links"><a href="goals/rejuvenation-by-images/dark-circles/index#">Dark
-                                    Circles</a> <a href="goals/rejuvenation-by-images/double-chin/index#">Double
-                                    Chin</a> <a
-                                    href="goals/rejuvenation-by-images/fine-lines-and-wrinkles/index#">Fine Lines
-                                    &amp; Wrinkles</a> <a
-                                    href="goals/rejuvenation-by-images/frown-and-forehead-lines/index#">Frown &amp;
-                                    Forehead Lines</a> <a href="goals/rejuvenation-by-images/thin-lips/index#">Thin
-                                    Lips</a> <a href="goals/rejuvenation-by-images/volume-loss/index#">Volume
-                                    Loss</a></div>
-                            <p><a href="goals/rejuvenation-by-images/index#" class="arrow-link">View All</a></p>
-                        </div>
-                    </div>
-
-                    <div class="item">
-                        <div class="media">
-                            <picture class="">
-                                <source media="(max-width:420px)" srcset="images/2.png"
-                                    data-lazyload-srcset="images/2.png 2x">
-                                <source media="(max-width:800px)" srcset="images/2.png"
-                                    data-lazyload-srcset="images/2.png 2x">
-                                <source srcset="images/2.png" data-lazyload-srcset="images/2.png">
-                                <img src="images/2.png" data-lazyload-src="images/2.png" loading="lazy"
-                                    data-lazyload="img" width="1080" height="1688"
-                                    alt="Patient getting a Laser Skin Treatment" draggable="false">
-                            </picture>
-                            <!-- <p class="title">Skin <span>By Images</span></p> -->
-                        </div>
-                        <div class="content">
-                            <h3 class="title">Skin <span>By Images</span></h3>
-                            <div class="links"><a href="goals/skin-by-images/acne-and-acne-scars/index#">Acne &amp;
-                                    Acne Scars</a> <a href="goals/skin-by-images/age-spots/index#">Age Spots</a> <a
-                                    href="goals/skin-by-images/dull-skin/index#">Dull Skin</a> <a
-                                    href="goals/skin-by-images/melasma/index#">Melasma</a> <a
-                                    href="goals/skin-by-images/rosacea/index#">Rosacea</a> <a
-                                    href="goals/skin-by-images/sun-spots/index#">Sun Spots</a> <a
-                                    href="goals/skin-by-images/uneven-texture/index#">Uneven Texture</a></div>
-                            <p><a href="goals/skin-by-images/index#" class="arrow-link">View All</a></p>
-                        </div>
-                    </div>
-
-                    <div class="item">
-                        <div class="media">
-                            <picture class="">
-                                <source media="(max-width:420px)" srcset="images/3.png"
-                                    data-lazyload-srcset="images/3.png 2x">
-                                <source media="(max-width:800px)" srcset="images/3.png"
-                                    data-lazyload-srcset="images/3.png 2x">
-                                <source srcset="images/3.png" data-lazyload-srcset="images/3.png">
-                                <img src="images/3.png" data-lazyload-src="images/3.png" loading="lazy"
-                                    data-lazyload="img" width="1080" height="1688"
-                                    alt="Patient getting a Laser Skin Treatment" draggable="false">
-                            </picture>
-                            <!-- <p class="title">Body <span>By Images</span></p> -->
-                        </div>
-                        <div class="content">
-                            <h3 class="title">Body <span>By Images</span></h3>
-                            <div class="links"><a href="goals/body-by-images/cellulite/index#">Cellulite</a> <a
-                                    href="goals/body-by-images/excessive-sweating/index#">Excessive Sweating</a> <a
-                                    href="goals/body-by-images/weight-loss/index#">Fat Loss</a> <a
-                                    href="goals/body-by-images/unwanted-hair/index#">Unwanted Hair</a> <a
-                                    href="goals/body-by-images/muscle-tone/index#">Muscle Tone</a></div>
-                            <p><a href="goals/body-by-images/index#" class="arrow-link">View All</a></p>
-                        </div>
-                    </div>
-
-                </div>
-            </div>
-        </div>
-
-        <div class="mod_decades_half_image mod_half_image viewport half-image container wow" data-s3-module>
-            <div class="row half-image-row">
-                <div class="media decades-swiper swiper">
-                    <div class="swiper-wrapper">
-                        <div class="slide swiper-slide">
-                            <a href="" class="item">
-                                <img src="images/age-slider.png" alt="">
-                                <span class="age">20</span>
-                            </a>
-                        </div>
-                        <div class="slide swiper-slide">
-                            <a href="" class="item">
-                                <picture class="background">
-                                    <source media="(max-width:420px)"
-                                        srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII="
-                                        data-lazyload-srcset="https://www.datocms-assets.com/119812/1711247596-home-30s.jpg?auto=format,compress&w=420, https://www.datocms-assets.com/119812/1711247596-home-30s.jpg?auto=format,compress&w=630 2x">
-                                    <source media="(max-width:800px)"
-                                        srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII="
-                                        data-lazyload-srcset="https://www.datocms-assets.com/119812/1711247596-home-30s.jpg?auto=format,compress&w=800&q=90&sharp=5, https://www.datocms-assets.com/119812/1711247596-home-30s.jpg?auto=format,compress&w=1200&q=90&sharp=5 2x">
-                                    <source
-                                        srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII="
-                                        data-lazyload-srcset="https://www.datocms-assets.com/119812/1711247596-home-30s4160.jpg?auto=format,compress&amp;w=1328&amp;q=90&amp;sharp=5">
-                                    <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII="
-                                        data-lazyload-src="https://www.datocms-assets.com/119812/1711247596-home-30s.jpg?auto=format,compress&w=1328&q=90&sharp=5"
-                                        loading="lazy" data-lazyload="img" width="1328" height="1566"
-                                        alt="30's Decade media" draggable="false">
-                                </picture>
-                                <span class="age">30</span>
-                            </a>
-                        </div>
-                        <div class="slide swiper-slide">
-                            <a href="goals/treatment-by-decade/treatment-in-your-40s/index#" class="item">
-                                <picture class="background">
-                                    <source media="(max-width:420px)"
-                                        srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII="
-                                        data-lazyload-srcset="https://www.datocms-assets.com/119812/1711247613-home-40s.jpg?auto=format,compress&w=420, https://www.datocms-assets.com/119812/1711247613-home-40s.jpg?auto=format,compress&w=630 2x">
-                                    <source media="(max-width:800px)"
-                                        srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII="
-                                        data-lazyload-srcset="https://www.datocms-assets.com/119812/1711247613-home-40s.jpg?auto=format,compress&w=800&q=90&sharp=5, https://www.datocms-assets.com/119812/1711247613-home-40s.jpg?auto=format,compress&w=1200&q=90&sharp=5 2x">
-                                    <source
-                                        srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII="
-                                        data-lazyload-srcset="../www.datocms-assets.com/119812/1711247613-home-40s4160.jpg?auto=format,compress&amp;w=1328&amp;q=90&amp;sharp=5">
-                                    <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII="
-                                        data-lazyload-src="https://www.datocms-assets.com/119812/1711247613-home-40s.jpg?auto=format,compress&w=1328&q=90&sharp=5"
-                                        loading="lazy" data-lazyload="img" width="1328" height="1566"
-                                        alt="40's Decade media" draggable="false">
-                                </picture>
-                                <span class="age">40</span>
-                            </a>
-                        </div>
-                        <div class="slide swiper-slide">
-                            <a href="goals/treatment-by-decade/treatment-in-your-50s/index#" class="item">
-                                <picture class="background">
-                                    <source media="(max-width:420px)"
-                                        srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII="
-                                        data-lazyload-srcset="https://www.datocms-assets.com/119812/1711247648-home-50s.jpg?auto=format,compress&w=420, https://www.datocms-assets.com/119812/1711247648-home-50s.jpg?auto=format,compress&w=630 2x">
-                                    <source media="(max-width:800px)"
-                                        srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII="
-                                        data-lazyload-srcset="https://www.datocms-assets.com/119812/1711247648-home-50s.jpg?auto=format,compress&w=800&q=90&sharp=5, https://www.datocms-assets.com/119812/1711247648-home-50s.jpg?auto=format,compress&w=1200&q=90&sharp=5 2x">
-                                    <source
-                                        srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII="
-                                        data-lazyload-srcset="../www.datocms-assets.com/119812/1711247648-home-50s4160.jpg?auto=format,compress&amp;w=1328&amp;q=90&amp;sharp=5">
-                                    <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII="
-                                        data-lazyload-src="https://www.datocms-assets.com/119812/1711247648-home-50s.jpg?auto=format,compress&w=1328&q=90&sharp=5"
-                                        loading="lazy" data-lazyload="img" width="1328" height="1566"
-                                        alt="50's Decade media" draggable="false">
-                                </picture>
-                                <span class="age">50</span>
-                            </a>
-                        </div>
-                        <div class="slide swiper-slide">
-                            <a href="goals/treatment-by-decade/treatment-in-your-60s/index#" class="item">
-                                <picture class="background">
-                                    <source media="(max-width:420px)"
-                                        srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII="
-                                        data-lazyload-srcset="https://www.datocms-assets.com/119812/1711247684-home-60s.jpg?auto=format,compress&w=420, https://www.datocms-assets.com/119812/1711247684-home-60s.jpg?auto=format,compress&w=630 2x">
-                                    <source media="(max-width:800px)"
-                                        srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII="
-                                        data-lazyload-srcset="https://www.datocms-assets.com/119812/1711247684-home-60s.jpg?auto=format,compress&w=800&q=90&sharp=5, https://www.datocms-assets.com/119812/1711247684-home-60s.jpg?auto=format,compress&w=1200&q=90&sharp=5 2x">
-                                    <source
-                                        srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII="
-                                        data-lazyload-srcset="../www.datocms-assets.com/119812/1711247684-home-60s4160.jpg?auto=format,compress&amp;w=1328&amp;q=90&amp;sharp=5">
-                                    <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII="
-                                        data-lazyload-src="https://www.datocms-assets.com/119812/1711247684-home-60s.jpg?auto=format,compress&w=1328&q=90&sharp=5"
-                                        loading="lazy" data-lazyload="img" width="1328" height="1566"
-                                        alt="60's Decade media" draggable="false">
-                                </picture>
-                                <span class="age">60</span>
-                            </a>
-                        </div>
-                    </div>
-                    <div class="controls">
-                        <div class="swiper-nav">
-                            <div class="swiper-button-prev" role="button" aria-label="Go to previous slide"></div>
-                            <span class="label">Select your age range</span>
-                            <div class="swiper-button-next" role="button" aria-label="Go to next slide"></div>
-                        </div>
-                    </div>
-                </div>
-                <div class="copy padded2">
-                    <div class="inner">
-                        <div class="content" data-api-key="content">
-                            <h2><span class="small">WHY CHOOSE US</span> Prepare with <span class="block">
-                                    Confidence</span></h2>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt
-                                ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation
-                                ullamco laboris. Nisi ut aliquip ex ea commodo consequat.</p>
-                            <p><a href="goals/treatment-by-decade/index#" class="arrow-link">BOOK A LESSON NOW</a>
-                            </p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-
-        <div class="mod_reviews_slider half-image container  wow option-1 fadeInUp" data-wow-duration="2s"
-            data-s3-module>
-            <div class="row half-image-row">
-                <div class="copy">
-                    <div class="inner">
-                        <h2 data-api-key="title"><span class="small">Testimonials</span></h2>
-                        <div class="reviews-swiper swiper">
-                            <div class="swiper-wrapper">
-                                <div class="item swiper-slide">
-                                    <div class="title">
-                                    </div>
-                                    <div class="description">
-                                        <p role="none">This platform has completely transformed the way I learn! The
-                                            expert tutors provide personalized guidance that makes even the toughest
-                                            topics easy to understand.</p>
-                                    </div>
-                                    <div class="bottom">
-                                        <span class="author">~ Alex M., High School Student</span>
-                                    </div>
-                                </div>
-                                <div class="item swiper-slide">
-                                    <div class="title">
-                                    </div>
-                                    <div class="description">
-                                        <p role="none">Images Med Spa is amazing. Images is always spotless and the full
-                                            staff there is inviting and professional.</p>
-                                    </div>
-                                    <div class="bottom">
-                                        <span class="author">Sarah M., 44</span>
-                                    </div>
-                                </div>
-                                <div class="item swiper-slide">
-                                    <div class="title">
-                                    </div>
-                                    <div class="description">
-                                        <p role="none">Images Med Spa is wonderful. Images is always spotless and the
-                                            full staff there is inviting and professional. Images Med Spa is wonderful.
-                                            Images Med Spa is wonderful.</p>
-                                    </div>
-                                    <div class="bottom">
-                                        <span class="author">Thalia J., 61</span>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="controls">
-                                <div class="swiper-pagination"></div>
-                                <div class="swiper-nav">
-                                    <div class="swiper-button-prev" role="button" aria-label="Go to previous slide">
-                                    </div>
-                                    <div class="swiper-button-next" role="button" aria-label="Go to next slide"></div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="media">
-                    <img src="images/testim.png" alt="">
-                    <div class="media-content">
-                        <h3>Trusted by <br> <span class="italic">Students</span> <span class="block">Everywhere</span>
-                            <span class="italic"></span>
-                        </h3>
-                    </div>
-                </div>
-            </div>
-            <div class="bottom-content">
-                <div class="left-holder">
-                    <p>We love hearing from our happy students. <br> Click this link to leave your own review.</p>
-                </div>
-                <div class="right-holder">
-                    <a href="https://www.google.com/search?q=Images+Med+Spa+Chicago&amp;sca_esv=fe23bd2a9cde40ea&amp;sca_upv=1&amp;biw=1429&amp;bih=1508&amp;ei=GqMBZtKsJaqEkvQP746f-A0&amp;ved=0ahUKEwjSoZPY54-FAxUqgoQIHW_HB98Q4dUDCBA&amp;uact=5&amp;oq=Images+Med+Spa+Chicago&amp;gs_lp=Egxnd3Mtd2l6LXNlcnAiFkltYWdlcyBNZWQgU3BhIENoaWNhZ28yCxAuGIAEGMcBGK8BMgsQABiABBiKBRiGAzIaEC4YgAQYxwEYrwEYlwUY3AQY3gQY4ATYAQJIogxQ3ARYiQtwAXgBkAEAmAGjAqAB0QiqAQUxLjYuMbgBA8gBAPgBAZgCCaAC6QjCAgoQABhHGNYEGLADwgIOEAAYgAQYigUYkgMYsAPCAhAQABiABBiKBRhDGMkDGLADwgINEAAYgAQYigUYQxiwA8ICGRAuGIAEGIoFGEMYxwEY0QMYyAMYsAPYAQHCAhkQLhiABBiKBRhDGMcBGK8BGMgDGLAD2AEBwgIQEC4YQxivARjHARiABBiKBcICCxAuGK8BGMcBGIAEwgIKEAAYgAQYigUYQ8ICBRAAGIAEwgIfEC4YQxivARjHARiABBiKBRiXBRjcBBjeBBjgBNgBAsICBhAAGBYYHpgDAIgGAZAGFLoGBggBEAEYCLoGBggCEAEYFJIHBTEuNy4xoAeuPw&amp;sclient=gws-wiz-serp#lrd=0x880fd365d6e22693:0x6c8f245a2edff5a,3,,,,"
-                        class="arrow-link" target="_blank" rel="noopener">
-                        Leave a Review
-                        <span class="visuallyhidden">LEAVE A REVIEW</span>
-                    </a>
-                </div>
-            </div>
-        </div>
-
-        <div class="mod_cta_gallery container cta viewport " data-s3-module>
-            <div class="row">
-                <div class="text">
-                    <h2 class="wow fadeInRightBig" data-wow-duration="2s">Interactive <span class="block">
-                            <i>Learning Highlights</i></span></h2>
-                    <a class="arrow-link wow fadeInLeftBig" data-wow-duration="2s" href="before-and-after/index#"
-                        title="View additional gallery images" aria-label="View additional gallery images">Interactive
-                        Learning Highlights</a>
-                </div>
-            </div>
-            <picture class="background">
-                <img src="images/highlights.png" alt="">
-            </picture>
-        </div>
-
-        <div class="mod_logo_list viewport container" data-s3-module>
-            <div class="row">
-                <div class="logo-container">
-                    <div class="img">
-                        <picture class="wow fadeInUp">
-                           <img src="https://www.datocms-assets.com/119812/1711730047-logo-hinsdalean.png?auto=format,compress&w=579" alt="">
-                        </picture>
-                    </div>
-                    <div class="img">
-                        <img src="https://www.datocms-assets.com/119812/1711730244-logo-chicago.png?auto=format,compress&w=469" alt="">
-                    </div>
-                    <div class="img">
-                        <picture class="wow fadeInUp">
-                          <img src="https://www.datocms-assets.com/119812/1708222438-logo-modernluxury.png?auto=format,compress&w=646" alt="">
-                        </picture>
-                    </div>
-                    <div class="img">
-                        <picture class="wow fadeInUp">
-                           <img src="https://www.datocms-assets.com/119812/1708222438-logo-modernluxury.png?auto=format,compress&w=646" alt="">
-                        </picture>
-                    </div>
-                </div>
-            </div>
-        </div>
-
-        <!-- <div class="mod_our_locations_map banner " data-s3-module>
-            <div class="wrapper">
-                <div class="row">
-                    <div class="content">
-                        <h2>Our Locations</h2>
-                        <div class="accordions">
-                            <div class="accordion active">
-                                <p class="label" data-state="chicago">Chicago</p>
-                                <div class="accordion-locations">
-                                    <a href="mokena/index#" class="location">
-                                        <span class="name">Mokena</span>
-                                        <hr>
-                                        <p>19070 Everett Blvd <br>Mokena, IL 60448</p>
-                                    </a>
-                                    <a href="wilmette/index#" class="location">
-                                        <span class="name">Wilmette</span>
-                                        <hr>
-                                        <p>505 Skokie Rd <br>Wilmette, IL 60091</p>
-                                    </a>
-                                    <a href="deer-park/index#" class="location">
-                                        <span class="name">Deer Park</span>
-                                        <hr>
-                                        <p>20530 N Rand Rd #132 <br>Deer Park, IL 60010</p>
-                                    </a>
-                                    <a href="yorkville/index#" class="location">
-                                        <span class="name">Yorkville</span>
-                                        <hr>
-                                        <p>942 N Bridge St <br>Yorkville, IL 60560</p>
-                                    </a>
-                                    <a href="hinsdale/index#" class="location">
-                                        <span class="name">Hinsdale</span>
-                                        <hr>
-                                        <p>22 W 1st St <br>Hinsdale, IL 60521</p>
-                                    </a>
-                                    <a href="lincoln-park/index#" class="location">
-                                        <span class="name">Lincoln Park</span>
-                                        <hr>
-                                        <p>1006 W Armitage Ave <br>Chicago, IL 60614</p>
-                                    </a>
-                                    <a href="wheaton/index#" class="location">
-                                        <span class="name">Wheaton</span>
-                                        <hr>
-                                        <p>104 N Hale St <br>Wheaton, IL 60187</p>
-                                    </a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="locations">
-                        <div class="chicago map active">
-                            <span class="location" style="left: 49%; top: 65%;">
-                                <a class="pin-link" aria-label="Mokena pin on a map" href="mokena/index#">
-                                    <span class="pin"></span>
-                                </a>
-                            </span>
-                            <span class="location" style="left: 54%; top: 46%;">
-                                <a class="pin-link" aria-label="Wilmette pin on a map" href="wilmette/index#">
-                                    <span class="pin"></span>
-                                </a>
-                            </span>
-                            <span class="location" style="left: 44%; top: 43%;">
-                                <a class="pin-link" aria-label="Deer Park pin on a map" href="deer-park/index#">
-                                    <span class="pin"></span>
-                                </a>
-                            </span>
-                            <span class="location" style="left: 30%; top: 60%;">
-                                <a class="pin-link" aria-label="Yorkville pin on a map" href="yorkville/index#">
-                                    <span class="pin"></span>
-                                </a>
-                            </span>
-                            <span class="location" style="left: 47%; top: 54%;">
-                                <a class="pin-link" aria-label="Hinsdale pin on a map" href="hinsdale/index#">
-                                    <span class="pin"></span>
-                                </a>
-                            </span>
-                            <span class="location" style="left: 58%; top: 52%;">
-                                <a class="pin-link" aria-label="Lincoln Park pin on a map"
-                                    href="lincoln-park/index#">
-                                    <span class="pin"></span>
-                                </a>
-                            </span>
-                            <span class="location" style="left: 42%; top: 50%;">
-                                <a class="pin-link" aria-label="Wheaton pin on a map" href="wheaton/index#">
-                                    <span class="pin"></span>
-                                </a>
-                            </span>
-                            <picture class="background">
-                                <source media="(max-width:420px)"
-                                    srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII="
-                                    data-lazyload-srcset="https://www.datocms-assets.com/119812/1711137572-chicago-map.jpg?auto=format,compress&w=200, https://www.datocms-assets.com/119812/1711137572-chicago-map.jpg?auto=format,compress&w=300 2x">
-                                <source media="(max-width:800px)"
-                                    srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII="
-                                    data-lazyload-srcset="https://www.datocms-assets.com/119812/1711137572-chicago-map.jpg?auto=format,compress&w=800&q=95&sharp=8, https://www.datocms-assets.com/119812/1711137572-chicago-map.jpg?auto=format,compress&w=1200&q=95&sharp=8 2x">
-                                <source media="(max-width:1400px)"
-                                    srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII="
-                                    data-lazyload-srcset="https://www.datocms-assets.com/119812/1711137572-chicago-map.jpg?auto=format,compress&w=1400&q=95&sharp=8, https://www.datocms-assets.com/119812/1711137572-chicago-map.jpg?auto=format,compress&w=2100&q=95&sharp=8 2x">
-                                <source
-                                    srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII="
-                                    data-lazyload-srcset="../www.datocms-assets.com/119812/1711137572-chicago-map2b89.jpg?auto=format,compress&amp;w=1440&amp;q=95&amp;sharp=8">
-                                <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII="
-                                    data-lazyload-src="https://www.datocms-assets.com/119812/1711137572-chicago-map.jpg?auto=format,compress&w=1440&q=95&sharp=8"
-                                    loading="lazy" data-lazyload="img" width="1440" height="1620" alt=""
-                                    draggable="false">
-                            </picture>
-                        </div>
-                    </div>
-                </div>
-            </div>
         </div> -->
-
-        <div class="mod_focus_areas_slider viewport container" data-s3-module>
-            <div class="row ">
-                <div class="top">
-                    <h2><span class="small">SUBJECTS</span> Tailored online tutoring for K-12, college students, and
-                        lifelong learners </span></h2>
-                </div>
-                <div class="focus-swiper swiper">
-                    <div class="swiper-wrapper">
-                        <div class="item swiper-slide">
-                            <div class="media">
-                                <img src="images/e1.png" alt="">
-                                <p class="title">English Mastery <br> for All Levels</p>
-                            </div>
-                            <div class="content">
-                                <h3 class="title">Injectables</h3>
-                                <p>Images is excited to offer patients some of the most trusted and effective injectable
-                                    products on the market, so you can enjoy exciting results with little to no
-                                    downtime.</p>
-                                <a href="injectables/index#" class="arrow-link long-link">Learn More <span
-                                        class="block">about Injectables</span></a>
-                            </div>
-                        </div>
-                        <div class="item swiper-slide">
-                            <div class="media">
-                                <img src="images/e2.png" alt="">
-                                <p class="title">Science That Inspires</p>
-                            </div>
-                            <div class="content">
-                                <h3 class="title">Skin Rejuvenation</h3>
-                                <p>Our selection of non-invasive skin rejuvenation options gives you the ability to
-                                    illuminate and revitalize your complexion, no matter what your goals may be.</p>
-                                <a href="skin-rejuvenation/index#" class="arrow-link long-link">Learn More <span
-                                        class="block">about Skin Rejuvenation</span></a>
-                            </div>
-                        </div>
-                        <div class="item swiper-slide">
-                            <div class="media">
-                                <img src="images/e3.png" alt="">
-                                <p class="title">Math Made Simple</p>
-                            </div>
-                            <div class="content">
-                                <h3 class="title">Laser Treatments</h3>
-                                <p>Images is always working hard to stay at the forefront of facial rejuvenation. Our
-                                    highly advanced laser procedures can address a wide range of skin concerns.</p>
-                                <a href="laser-treatments/index#" class="arrow-link long-link">Learn More <span
-                                        class="block">about Laser Treatments</span></a>
-                            </div>
-                        </div>
-                        <div class="item swiper-slide">
-                            <div class="media">
-                                <picture class="">
-                                    <source media="(max-width:420px)"
-                                        srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII="
-                                        data-lazyload-srcset="https://www.datocms-assets.com/119812/1709672777-home-facial.jpg?auto=format,compress&w=420, https://www.datocms-assets.com/119812/1709672777-home-facial.jpg?auto=format,compress&w=630 2x">
-                                    <source media="(max-width:800px)"
-                                        srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII="
-                                        data-lazyload-srcset="https://www.datocms-assets.com/119812/1709672777-home-facial.jpg?auto=format,compress&w=800, https://www.datocms-assets.com/119812/1709672777-home-facial.jpg?auto=format,compress&w=1200 2x">
-                                    <source
-                                        srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII="
-                                        data-lazyload-srcset="../www.datocms-assets.com/119812/1709672777-home-facialb612.jpg?auto=format,compress&amp;w=912">
-                                    <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII="
-                                        data-lazyload-src="https://www.datocms-assets.com/119812/1709672777-home-facial.jpg?auto=format,compress&w=912"
-                                        loading="lazy" data-lazyload="img" width="912" height="1360" alt="Facial media"
-                                        draggable="false">
-                                </picture>
-                                <p class="title">Facial</p>
-                            </div>
-                            <div class="content">
-                                <h3 class="title">Facial</h3>
-                                <p>Pamper yourself while addressing a number of topical skin concerns with customizable
-                                    facial treatments that create personalized results.</p>
-                                <a href="facials/index#" class="arrow-link long-link">Learn More <span
-                                        class="block">about Facial</span></a>
-                            </div>
-                        </div>
-                        <div class="item swiper-slide">
-                            <div class="media">
-                                <picture class="">
-                                    <source media="(max-width:420px)"
-                                        srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII="
-                                        data-lazyload-srcset="https://www.datocms-assets.com/119812/1709672762-home-body.jpg?auto=format,compress&w=420, https://www.datocms-assets.com/119812/1709672762-home-body.jpg?auto=format,compress&w=630 2x">
-                                    <source media="(max-width:800px)"
-                                        srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII="
-                                        data-lazyload-srcset="https://www.datocms-assets.com/119812/1709672762-home-body.jpg?auto=format,compress&w=800, https://www.datocms-assets.com/119812/1709672762-home-body.jpg?auto=format,compress&w=1200 2x">
-                                    <source
-                                        srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII="
-                                        data-lazyload-srcset="../www.datocms-assets.com/119812/1709672762-home-bodyb612.jpg?auto=format,compress&amp;w=912">
-                                    <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII="
-                                        data-lazyload-src="https://www.datocms-assets.com/119812/1709672762-home-body.jpg?auto=format,compress&w=912"
-                                        loading="lazy" data-lazyload="img" width="912" height="1360" alt="Body media"
-                                        draggable="false">
-                                </picture>
-                                <p class="title">Body</p>
-                            </div>
-                            <div class="content">
-                                <h3 class="title">Body</h3>
-                                <p>Our non-surgical body contouring services are here to help you make your body goals a
-                                    reality so you can show the world an attractive and sculpted silhouette.</p>
-                                <a href="body/index#" class="arrow-link long-link">Learn More <span
-                                        class="block">about Body</span></a>
-                            </div>
-                        </div>
-                        <div class="item swiper-slide">
-                            <div class="media">
-                                <picture class="">
-                                    <source media="(max-width:420px)"
-                                        srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII="
-                                        data-lazyload-srcset="https://www.datocms-assets.com/119812/1709673019-home-wellness.jpg?auto=format,compress&w=420, https://www.datocms-assets.com/119812/1709673019-home-wellness.jpg?auto=format,compress&w=630 2x">
-                                    <source media="(max-width:800px)"
-                                        srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII="
-                                        data-lazyload-srcset="https://www.datocms-assets.com/119812/1709673019-home-wellness.jpg?auto=format,compress&w=800, https://www.datocms-assets.com/119812/1709673019-home-wellness.jpg?auto=format,compress&w=1200 2x">
-                                    <source
-                                        srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII="
-                                        data-lazyload-srcset="../www.datocms-assets.com/119812/1709673019-home-wellnessb612.jpg?auto=format,compress&amp;w=912">
-                                    <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII="
-                                        data-lazyload-src="https://www.datocms-assets.com/119812/1709673019-home-wellness.jpg?auto=format,compress&w=912"
-                                        loading="lazy" data-lazyload="img" width="912" height="1360"
-                                        alt="Wellness media" draggable="false">
-                                </picture>
-                                <p class="title">Wellness</p>
-                            </div>
-                            <div class="content">
-                                <h3 class="title">Wellness</h3>
-                                <p>Images Med Spa is dedicated to helping you look and feel your absolute best. Our
-                                    wellness treatments can help you feel as vibrant on the inside as you look on the
-                                    outside.</p>
-                                <a href="wellness/index#" class="arrow-link long-link">Learn More <span
-                                        class="block">about Wellness</span></a>
-                            </div>
-                        </div>
-                        <div class="item swiper-slide">
-                            <div class="media">
-                                <picture class="">
-                                    <source media="(max-width:420px)"
-                                        srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII="
-                                        data-lazyload-srcset="https://www.datocms-assets.com/119812/1709672975-home-skincare.jpg?auto=format,compress&w=420, https://www.datocms-assets.com/119812/1709672975-home-skincare.jpg?auto=format,compress&w=630 2x">
-                                    <source media="(max-width:800px)"
-                                        srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII="
-                                        data-lazyload-srcset="https://www.datocms-assets.com/119812/1709672975-home-skincare.jpg?auto=format,compress&w=800, https://www.datocms-assets.com/119812/1709672975-home-skincare.jpg?auto=format,compress&w=1200 2x">
-                                    <source
-                                        srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII="
-                                        data-lazyload-srcset="../www.datocms-assets.com/119812/1709672975-home-skincareb612.jpg?auto=format,compress&amp;w=912">
-                                    <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII="
-                                        data-lazyload-src="https://www.datocms-assets.com/119812/1709672975-home-skincare.jpg?auto=format,compress&w=912"
-                                        loading="lazy" data-lazyload="img" width="912" height="1360"
-                                        alt="Skincare media" draggable="false">
-                                </picture>
-                                <p class="title">Skincare</p>
-                            </div>
-                            <div class="content">
-                                <h3 class="title">Skincare</h3>
-                                <p>Treat your skin to the most nourishing products available thanks to a selection of
-                                    medical-grade skincare products available only through licensed experts like the
-                                    ones at Images.</p>
-                                <a href="skincare/index#" class="arrow-link long-link">Learn More <span
-                                        class="block">about Skincare</span></a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="controls">
-                        <div class="swiper-nav">
-                            <div class="swiper-button-prev" role="button" aria-label="Go to previous slide"></div>
-                            <div class="swiper-button-next" role="button" aria-label="Go to next slide"></div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-
-        <div class="mod_half_image video-bg viewport half-image container wow fadeInLeft" data-s3-module>
-            <div class="row half-image-row">
-                <div class="media">
-                    <picture class="background">
-                        <img src="https://www.datocms-assets.com/119812/1709673046-home-skincare.jpg?auto=format,compress&w=2200" alt="">
-                    </picture>
-
-                </div>
-                <div class="copy padded2">
-                    <div class="inner">
-                        <div class="content" data-api-key="content">
-                            <h2><span class="small">ENRICHMENT</span> Unleashing Potential Through Enrichment</h2>
-                            <p>Expand your skills and broaden your horizons with our advanced learning opportunities.
-                                Dive into coding, creative writing, STEM, and critical thinking, all designed to foster
-                                growth and innovation. Our enrichment programs provide hands-on experiences and expert
-                                guidance to help you excel in areas beyond traditional academics. Click to explore how
-                                you can unlock your full potential today!
-                            </p>
-                            <p><a href="skincare/index#" class="arrow-link">BOOK A LESSON NOW</a></p>
-                        </div>
-                    </div>
-                    <video class="background" muted autoplay loop preload title="Skincare Cream Texture"
-                        data-lazyload="video" playsinline=""
-                        data-desktop-vid="https://videos.tresiocdn.com/02EoZVtcmQhGV00o8YQaHKZksF9GIWYtF1/high.mp4"
-                        data-tablet-vid="https://videos.tresiocdn.com/02EoZVtcmQhGV00o8YQaHKZksF9GIWYtF1/medium.mp4"
-                        data-mobile-vid="https://videos.tresiocdn.com/02EoZVtcmQhGV00o8YQaHKZksF9GIWYtF1/low.mp4"></video>
-                </div>
-            </div>
-        </div>
-
-
-
-        <div class="mod_instagram container" data-s3-module>
-            <div class="row ">
-                <div class="top">
-                    <h2>Connect with us to
-                        <span class="block">look…feel…<i>be</i> your best</span>
-                    </h2>
-                    <ul class="partial_socials" data-s3-partial>
-                        <li><a rel="noopener" title="Images Med Spa on Facebook"
-                                href="https://www.facebook.com/imagesmedspa/" target="_blank"
-                                aria-label="Images Med Spa on Facebook opens in a new tab"><span class="facebook-icon"
-                                    role="presentation"></span></a></li>
-                        <li><a rel="noopener" title="Images Med Spa on Instagram"
-                                href="https://www.instagram.com/imagesmedspa/" target="_blank"
-                                aria-label="Images Med Spa on Instagram opens in a new tab"><span class="instagram-icon"
-                                    role="presentation"></span></a></li>
-                        <li><a rel="noopener" title="Images Med Spa on Youtube"
-                                href="https://www.youtube.com/channel/UC1CCPKwc5j0TA5VRu61EsgA" target="_blank"
-                                aria-label="Images Med Spa on Youtube opens in a new tab"><span class="youtube-icon"
-                                    role="presentation"></span></a></li>
-                        <li><a rel="noopener" title="Images Med Spa on Linkedin"
-                                href="https://www.linkedin.com/company/images-med-spa/" target="_blank"
-                                aria-label="Images Med Spa on Linkedin opens in a new tab"><span class="linkedin-icon"
-                                    role="presentation"></span></a></li>
-                        <li><a rel="noopener" title="Images Med Spa on Pinterest"
-                                href="https://www.pinterest.com/Imagesmedspa/_created/" target="_blank"
-                                aria-label="Images Med Spa on Pinterest opens in a new tab"><span class="pinterest-icon"
-                                    role="presentation"></span></a></li>
-                    </ul>
-                </div>
-                <div class="content instagram-swiper swiper static-feed">
-                    <div class="swiper-wrapper">
-                        <div class="post swiper-slide">
-                            <span class="icon"></span>
-                            <picture class="media">
-                                <source media="(max-width:420px)"
-                                    srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII="
-                                    data-lazyload-srcset="https://www.datocms-assets.com/119812/1708223871-social-media5.jpg?auto=format,compress&w=420, https://www.datocms-assets.com/119812/1708223871-social-media5.jpg?auto=format,compress&w=630 2x">
-                                <source media="(max-width:800px)"
-                                    srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII="
-                                    data-lazyload-srcset="https://www.datocms-assets.com/119812/1708223871-social-media5.jpg?auto=format,compress&w=800, https://www.datocms-assets.com/119812/1708223871-social-media5.jpg?auto=format,compress&w=1200 2x">
-                                <source
-                                    srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII="
-                                    data-lazyload-srcset="../www.datocms-assets.com/119812/1708223871-social-media5ccff.jpg?auto=format,compress&amp;w=860">
-                                <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII="
-                                    data-lazyload-src="https://www.datocms-assets.com/119812/1708223871-social-media5.jpg?auto=format,compress&w=860"
-                                    loading="lazy" data-lazyload="img" width="860" height="860"
-                                    alt="Aging gracefully media" draggable="false">
-                            </picture>
-                        </div>
-                        <div class="post swiper-slide">
-                            <span class="icon"></span>
-                            <picture class="media">
-                                <source media="(max-width:420px)"
-                                    srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII="
-                                    data-lazyload-srcset="https://www.datocms-assets.com/119812/1708223857-social-media.jpg?auto=format,compress&w=420, https://www.datocms-assets.com/119812/1708223857-social-media.jpg?auto=format,compress&w=630 2x">
-                                <source media="(max-width:800px)"
-                                    srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII="
-                                    data-lazyload-srcset="https://www.datocms-assets.com/119812/1708223857-social-media.jpg?auto=format,compress&w=800, https://www.datocms-assets.com/119812/1708223857-social-media.jpg?auto=format,compress&w=1200 2x">
-                                <source
-                                    srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII="
-                                    data-lazyload-srcset="../www.datocms-assets.com/119812/1708223857-social-mediaccff.jpg?auto=format,compress&amp;w=860">
-                                <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII="
-                                    data-lazyload-src="https://www.datocms-assets.com/119812/1708223857-social-media.jpg?auto=format,compress&w=860"
-                                    loading="lazy" data-lazyload="img" width="860" height="860"
-                                    alt="Do it for you media" draggable="false">
-                            </picture>
-                        </div>
-                        <div class="post swiper-slide">
-                            <span class="icon"></span>
-                            <picture class="media">
-                                <source media="(max-width:420px)"
-                                    srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII="
-                                    data-lazyload-srcset="https://www.datocms-assets.com/119812/1708223851-social-media2.jpg?auto=format,compress&w=420, https://www.datocms-assets.com/119812/1708223851-social-media2.jpg?auto=format,compress&w=630 2x">
-                                <source media="(max-width:800px)"
-                                    srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII="
-                                    data-lazyload-srcset="https://www.datocms-assets.com/119812/1708223851-social-media2.jpg?auto=format,compress&w=800, https://www.datocms-assets.com/119812/1708223851-social-media2.jpg?auto=format,compress&w=1200 2x">
-                                <source
-                                    srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII="
-                                    data-lazyload-srcset="../www.datocms-assets.com/119812/1708223851-social-media2ccff.jpg?auto=format,compress&amp;w=860">
-                                <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII="
-                                    data-lazyload-src="https://www.datocms-assets.com/119812/1708223851-social-media2.jpg?auto=format,compress&w=860"
-                                    loading="lazy" data-lazyload="img" width="860" height="860" alt="Social media"
-                                    draggable="false">
-                            </picture>
-                        </div>
-                        <div class="post swiper-slide">
-                            <span class="icon"></span>
-                            <picture class="media">
-                                <source media="(max-width:420px)"
-                                    srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII="
-                                    data-lazyload-srcset="https://www.datocms-assets.com/119812/1708223861-social-media3.jpg?auto=format,compress&w=420, https://www.datocms-assets.com/119812/1708223861-social-media3.jpg?auto=format,compress&w=630 2x">
-                                <source media="(max-width:800px)"
-                                    srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII="
-                                    data-lazyload-srcset="https://www.datocms-assets.com/119812/1708223861-social-media3.jpg?auto=format,compress&w=800, https://www.datocms-assets.com/119812/1708223861-social-media3.jpg?auto=format,compress&w=1200 2x">
-                                <source
-                                    srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII="
-                                    data-lazyload-srcset="../www.datocms-assets.com/119812/1708223861-social-media3ccff.jpg?auto=format,compress&amp;w=860">
-                                <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII="
-                                    data-lazyload-src="https://www.datocms-assets.com/119812/1708223861-social-media3.jpg?auto=format,compress&w=860"
-                                    loading="lazy" data-lazyload="img" width="860" height="860" alt="Social media"
-                                    draggable="false">
-                            </picture>
-                        </div>
-                        <div class="post swiper-slide">
-                            <span class="icon"></span>
-                            <picture class="media">
-                                <source media="(max-width:420px)"
-                                    srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII="
-                                    data-lazyload-srcset="https://www.datocms-assets.com/119812/1708223866-social-media4.jpg?auto=format,compress&w=420, https://www.datocms-assets.com/119812/1708223866-social-media4.jpg?auto=format,compress&w=630 2x">
-                                <source media="(max-width:800px)"
-                                    srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII="
-                                    data-lazyload-srcset="https://www.datocms-assets.com/119812/1708223866-social-media4.jpg?auto=format,compress&w=800, https://www.datocms-assets.com/119812/1708223866-social-media4.jpg?auto=format,compress&w=1200 2x">
-                                <source
-                                    srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII="
-                                    data-lazyload-srcset="../www.datocms-assets.com/119812/1708223866-social-media4ccff.jpg?auto=format,compress&amp;w=860">
-                                <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII="
-                                    data-lazyload-src="https://www.datocms-assets.com/119812/1708223866-social-media4.jpg?auto=format,compress&w=860"
-                                    loading="lazy" data-lazyload="img" width="860" height="860" alt="Bare it all media"
-                                    draggable="false">
-                            </picture>
-                        </div>
-                    </div>
-                    <div class="controls">
-                        <div class="swiper-nav">
-                            <div class="swiper-button-prev" role="button" aria-label="Go to previous slide"></div>
-                            <div class="swiper-button-next" role="button" aria-label="Go to next slide"></div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-
-        <div class="mod_intro container viewport option-1 wide wow fadeInUp" data-s3-module>
-            <div class="row text-center">
-                <div class="inner" data-api-key="content">
-                    <h2><span class="small">A Mantra for You</span> Your grace, <i>strength,</i> and resilience,
-                        <i>illuminate</i> the world.
-                    </h2>
-                </div>
-            </div>
-        </div>
-        <!-- Card Grid Module -->
-        <div class="mod_card_grid viewport container" data-s3-module>
-            <div class="row grid ">
-                <div class="card dark">
-                    <div class="copy">
-                        <span class="subtitle">Giftcards</span>
-                        <h2>Get <i><span class="block">
-                                    Strength</span></span></i></h2>
-                        <a href="gift-cards/index#" class="arrow-link">Purchase</a>
-                    </div>
-                    <picture class="">
-                      <img src="https://www.datocms-assets.com/119812/1708223876-home-pampered.jpg?auto=format,compress&w=1280" alt="">
-                    </picture>
-                </div>
-                <div class="card">
-                    <div class="copy">
-                        <span class="subtitle">Press</span>
-                        <h2>The <span class="block italic">Scoop</span></h2>
-                        <a href="about/press/index#" class="arrow-link">View More Press</a>
-                    </div>
-
-                </div>
-                <div class="card dark">
-                    <div class="copy">
-                        <span class="subtitle">Careers</span>
-                        <h2><i>One</i> <span class="block">of<i>Us</i></span></h2>
-                        <a href="careers/index#" class="arrow-link">Read More About Careers</a>
-                    </div>
-                    <picture class="">
-                       <img src="https://www.datocms-assets.com/119812/1708223881-home-one-of-us.jpg?auto=format,compress&w=1280" alt="">
-                    </picture>
-                </div>
-            </div>
-        </div>
-
-        <div class="partial_cta_sub" data-s3-partial>
-            <div class="row">
-                <div class="text wow fadeInDown" data-wow-duration="2s">
-                    <h2><span class="small">BY MIND BOOSTER</span><a href="#book-now" role="button" class="block">Let's
-                            Get
-                            In Touch <span class="block-phone">About <i>You</i></span></a></h2>
-                    <a href="#book-now" role="button" class="arrow-link">Book Now</a>
-                </div>
-            </div>
-            <picture class="background">
-               <img src="images/footer.png" alt="">
-            </picture>
-        </div>
-        <!-- Footer -->
-        <footer class="partial_footer container" data-s3-partial>
-            <!-- contact cta for mobile -->
-            <div class="fixed-cta">
-                <a href="#book-now" class="btn">Book Now</a>
-                <a class="tel ppc-href btn" href="tel:+13312663868">
-                    <span class="visuallyhidden">Call Images Med Spa on the phone at </span>
-                    <span class="ppc-number">(331) 266-3868</span>
-                </a>
-            </div>
-
-          
-            <div class="wrapper">
-                <div class="row main">
-                    <div class="item left-holder">
-                        <p class="title">Follow Us on Social</p>
-                        <hr>
-                        <ul class="partial_socials" data-s3-partial>
-                            <li><a rel="noopener" title="Images Med Spa on Facebook"
-                                    href="https://www.facebook.com/imagesmedspa/" target="_blank"
-                                    aria-label="Images Med Spa on Facebook opens in a new tab"><span
-                                        class="facebook-icon" role="presentation"></span></a></li>
-                            <li><a rel="noopener" title="Images Med Spa on Instagram"
-                                    href="https://www.instagram.com/imagesmedspa/" target="_blank"
-                                    aria-label="Images Med Spa on Instagram opens in a new tab"><span
-                                        class="instagram-icon" role="presentation"></span></a></li>
-                            <li><a rel="noopener" title="Images Med Spa on Youtube"
-                                    href="https://www.youtube.com/channel/UC1CCPKwc5j0TA5VRu61EsgA" target="_blank"
-                                    aria-label="Images Med Spa on Youtube opens in a new tab"><span class="youtube-icon"
-                                        role="presentation"></span></a></li>
-                            <li><a rel="noopener" title="Images Med Spa on Linkedin"
-                                    href="https://www.linkedin.com/company/images-med-spa/" target="_blank"
-                                    aria-label="Images Med Spa on Linkedin opens in a new tab"><span
-                                        class="linkedin-icon" role="presentation"></span></a></li>
-                            <li><a rel="noopener" title="Images Med Spa on Pinterest"
-                                    href="https://www.pinterest.com/Imagesmedspa/_created/" target="_blank"
-                                    aria-label="Images Med Spa on Pinterest opens in a new tab"><span
-                                        class="pinterest-icon" role="presentation"></span></a></li>
-                        </ul> <a href="about/reviews/index#" class="reviews-holder block">
-                            <p class="visuallyhidden">Images Med Spa reviews:</p>
-                            <p>4.9 Stars 1273 Reviews</p>
-                            <div class="stars">
-                                <i class="f-icon icon-star" role="none"></i>
-                                <i class="f-icon icon-star" role="none"></i>
-                                <i class="f-icon icon-star" role="none"></i>
-                                <i class="f-icon icon-star" role="none"></i>
-                                <i class="f-icon icon-star" role="none"></i>
-                            </div>
-                        </a>
-                    </div>
-                    <div class="item logo-holder">
-                        <a href="index#" class="logo">
-                        
-                        </a>
-                    </div>
-                    <div class="item right-holder">
-                        <div class="inner">
-                            <p class="title">Book Now</p>
-                            <hr>
-                            <a class="tel ppc-href" href="tel:+13312663868">
-                                <span class="visuallyhidden">Call Images Med Spa on the phone at </span>
-                                <span class="ppc-number">(331) 266-3868</span>
-                            </a>
-                            <a class="tel text ppc-href" href="tel:+17083752951">
-                                <span class="visuallyhidden">Text Images Med Spa on the phone at </span>
-                                <span class="ppc-number">(708) 375-2951</span>
-                            </a>
-                        </div>
-                    </div>
-                </div>
-                <hr>
-                <div class="row main links">
-                    <div class="group">
-                        <a href="careers/index#">Careers</a>
-                        <a href="about/financing/index#">Financing</a>
-                        <a href="newsletter-sign-up/index#">Newsletter Sign-Up</a>
-                        <a href="locations/index#">Locations</a>
-                    </div>
-                </div>
-            </div>
-
-            <div class="trademark">
-                <div class="row">
-                    <div class="item reserved">
-                        <p>&copy; © Mind Booster Tutoring All Rights Reserved.</p>
-                    </div>
-                    <div class="item">
-                        <p>
-                            <a href="terms-and-conditions/index#">Terms & Conditions</a>
-                            <a href="privacy-policy/index#">Privacy Policy</a>
-                            <a href="sitemap/index#">Sitemap</a>
-                        </p>
-                    </div>
-                    <div class="item s3">
-                        <a href="https://www.studio3marketing.com/" target="_blank" rel="noopener">
-                            <span class="s3-logo" aria-hidden="true"></span> Digital Marketing & Design <span
-                                class="block">by Studio III Marketing</span>
-                            <span class="visuallyhidden">(opens in a new tab)</span>
-                        </a>
-                    </div>
-                </div>
-            </div>
-
-
-        </footer>
-
-        <div class="partial_form_sticky" data-s3-partial>
-            <a class="sticky-form-header" href="contact/index#" role="button" aria-label="Contact Us"
-                data-s3-event="Contact - Desktop Sticky">Contact Us</a>
-        </div><!--[endlocalize]-->
-        <script type="text/javascript">
-            (() => { var p = t => { let o = document.readyState; if (typeof $ != "function") { setTimeout(() => { p(t) }, 100); return } o === "complete" || o !== "loading" && !document.documentElement.doScroll ? t() : document.addEventListener("DOMContentLoaded", t) }, m = p; var g = () => { [...document.querySelectorAll("video")].forEach((t, o) => { let e = t.getAttribute("data-lazyload"), n = t.getAttribute("data-lazyload-loaded"); if (!e || n) { let a = t.getAttribute("src"), s = window.innerWidth, r = t.getAttribute("data-desktop-vid"), l = t.getAttribute("data-tablet-vid"), u = t.getAttribute("data-mobile-vid"), d = s <= 640 ? u : s <= 920 ? l : r; d !== null && d !== a && t.setAttribute("src", d) } }) }, E = t => "scrollTop" in t ? t.scrollTop : t.pageYOffset, y = t => { let o = t.getBoundingClientRect(); return { top: o.top + window.scrollY, left: o.left + window.scrollX } }, C = t => { for (var o = [], e = t.parentNode.firstChild; e;)e.nodeType === 1 && e !== t && o.push(e), e = e.nextSibling; return o }, c = { run() { g(), [...document.querySelectorAll("[data-lazyload]")].forEach(function (t, o) { var e = t.getAttribute("data-lazyload"), n = t.getAttribute("data-lazyload-src"); let a = (window.tresioConfig || {}).lazyload || {}; var s = a.homeOffset !== void 0 ? a.homeOffset : 300, r = a.offset !== void 0 ? a.offset : 300; e === "bg" && (r = a.backgroundOffset !== void 0 ? a.backgroundOffset : 300); var l = E(window), u = t.nodeName === "SOURCE" ? y(t.parentNode).top : y(t).top; window.location.pathname === "/" && s !== void 0 && l < 300 && (r = s); var d = u - r, v = d + t.getBoundingClientRect().height, h = l + document.querySelector("html").clientHeight, w = u - l, A = d < -r, S = v > l && d < h || w < r; let z = t.style.display; if (S && z !== "none" && t.getAttribute("data-lazyload-loaded") !== "true" && !A) { if (e === "bg" && (t.style.backgroundImage = `url(%24%7bn%7d/index#)`), e === "img" && (t.getAttribute("src") !== n && t.setAttribute("src", n), C(t).forEach((i, x) => { if (i.nodeName === "SOURCE") { let f = i.getAttribute("data-lazyload-srcset"), T = i.getAttribute("srcset"); f && f !== T && i.setAttribute("srcset", f) } })), e === "video") { if (t.getAttribute("data-desktop-vid")) t.setAttribute("data-lazyload-loaded", "true"), g(); else if (t.setAttribute("src", n), t.nodeName === "SOURCE") { let i = t.parentNode; i.load && i.load() } } t.setAttribute("data-lazyload-loaded", "true") } }) }, init() { document.readyState === "loading" && c.run(), m(() => { window.addEventListener("resize", c.run, !1), window.addEventListener("scroll", c.run, !1), c.run() }) } }, b = c; b.init(); })();
-
-        </script>
-
-        <script onload="$(document).trigger('cms.init')" type="text/javascript"
-            src="assets/app.minb108.js?build=19b7dbb15a168ed502964dd9c725a059d7a5d14f" defer async></script>
-
-        <script type="text/javascript"
-            src="master/assets/core/js/treCaptcha.minb108.js?build=19b7dbb15a168ed502964dd9c725a059d7a5d14f" defer
-            async></script>
-
-
-
-
-
-        <!-- Start of HubSpot Embed Code -->
-        <script type="text/javascript" id="hs-script-loader" async defer
-            src="https://js.hs-scripts.com/21855057.js"></script>
-        <!-- End of HubSpot Embed Code -->
-
-        <!-- Boulevard Script -->
-        <script>
-            (function (a) {
-                var b = {
-                    businessId: '847fd8ef-ae6b-4fbb-8d77-0444aeefac1c'
-                };
-
-                var c = a.createElement('script');
-                var d = a.querySelector('script');
-
-                c.src = '../static.joinboulevard.com/injector.min.js';
-                c.async = true;
-                c.onload = function () {
-                    blvd.init(b);
-                };
-
-                d.parentNode.insertBefore(c, d);
-            })(document);
-        </script>
-
-        <!--[if lt IE 9]> Uptime Monitor OK <![endif]-->
-</body>
-
-<!-- Mirrored from imagesmedspa.com/ by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 16 Jan 2025 17:55:07 GMT -->
-
-</html>
+    </header>
