@@ -13329,14 +13329,14 @@
         }
 
         .mod_newsletter_form .row form .fields .field input {
-    color: white;
-    background: transparent;
-    border-left: none;
-    border-top: none;
-    border-right: none;
-    border-radius: 0px;
-    font-size: 22px;
-}
+            color: white;
+            background: transparent;
+            border-left: none;
+            border-top: none;
+            border-right: none;
+            border-radius: 0px;
+            font-size: 22px;
+        }
 
 
 
@@ -20496,7 +20496,7 @@
             height: 100%;
             z-index: 2;
             display: block;
-            background: #606148;
+            background: transparent;
             opacity: 1;
             z-index: 0;
             left: auto;
@@ -30997,9 +30997,9 @@
             <div class="row">
                 <div class="inner">
                     <div class="links-holder">
-                        <a href="locations/index#">Locations</a>
-                        <a href="skin-quiz/index#">Skin Quiz</a>
-                        <a href="gift-cards/index#">Gift Cards</a>
+                        <a href="index.php">HOME</a>
+                        <a href="about.php">ABOUT</a>
+                        <a href="contact.php">CONTACT</a>
                     </div>
                     <div class="logo-holder">
                         <a href="index#">
@@ -31008,7 +31008,7 @@
                     </div>
 
                     <div class="right-holder">
-                        <a href="#book-now" role="button" class="btn">LOGIN NOW</a>
+                        <a href="login.php" role="button" class="btn">LOGIN NOW</a>
                         <a href="javascript:void(0);" role="button" class="menu-toggle"><span></span></a>
                     </div>
                 </div>

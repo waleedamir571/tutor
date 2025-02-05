@@ -6,37 +6,7 @@
 <!--[endlocalize]-->
 <main id="main">
 
-    <!-- Page Layout -->
-    <!-- Home Hero Module -->
-    <!-- <div class="mod_home_hero  " data-s3-module>
-        <div class="row">
-            <div class="section left-side">
-                <div class="inner">
-                  
-                    <div class="video-container-fluid">
-                        <img src="images/c1.png" alt="">
-
-                     
-
-                    </div>
-                   
-                </div>
-            </div>
-            <div class="section right-side">
-                <div class="inner">
-                    <div class="h1-container-fluid">
-                        <h1><span class="top">Get in Touch –  <br>
-                            We're Here to Help!</span> <span class="bottom"></span></h1>
-                    </div>
-                    <div class="button-link">
-                        <a href="treatment/index#" class="arrow-link top">BOOK A LESSON NOW</a>
-                    </div>
-                   
-                </div>
-            </div>
-            
-        </div>
-    </div> -->
+  
 
     <div class="mod_hero banner viewport " data-s3-module>
         <div class="wrapper">
