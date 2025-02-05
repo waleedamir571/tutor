@@ -17,7 +17,6 @@
 
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
 
-
     <meta property="og:title" content="Tutor">
     <meta property="og:description"
         content="Images is a Medical Spa in Chicago, IL, offering top of the line aesthetic treatments by professional providers to help you look and feel your best.">
