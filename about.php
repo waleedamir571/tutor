@@ -36,6 +36,14 @@
                 <div class="list">
                     <div class="inner">
                         <h1 class="heading">Our Story</h1>
+                        <div class="row">
+                            <div class="col-md-7">
+                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt
+                                    ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation
+                                    ullamco laboris. Nisi ut aliquip ex ea commodo consequat.</p>
+                            </div>
+                        </div>
+                       
                       
                         </ul> <a class="arrow-link" href="#book-now">BOOK A LESSON NOW</a>
                     </div>
