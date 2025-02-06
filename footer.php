@@ -127,7 +127,7 @@
         </div>
 
         <div class="partial_form_sticky" data-s3-partial>
-            <a class="sticky-form-header" href="contact/index#" role="button" aria-label="Contact Us"
+            <a class="sticky-form-header" href="contact.php" role="button" aria-label="Contact Us"
                 data-s3-event="Contact - Desktop Sticky">Contact Us</a>
         </div><!--[endlocalize]-->
         <script type="text/javascript">

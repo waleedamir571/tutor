@@ -20127,7 +20127,7 @@
         }
 
         .home .mod_intro.wide .row .inner {
-            max-width: 640px
+            max-width: 700px;
         }
 
         .mod_intro.option-2,

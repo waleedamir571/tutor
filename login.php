@@ -106,7 +106,7 @@
                                        
                                         <label
                                             for="newsletter_by_completing_this_form_you_are_giving_us_permission_to_followup_by_phone_email_or_text">If
-                                            you don’t have an account please <a href=""> Signup </a> </label>
+                                            you don’t have an account please <a href="sign-up.php"> Signup </a> </label>
                                     </div>
                                 </div>
                             </div>

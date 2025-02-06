@@ -113,10 +113,7 @@
                                 <div class="field checkbox follow-up">
                                     <small>This field is required.</small>
                                     <div class="field-item checkbox-item">
-                                       
-                                        <label
-                                            for="newsletter_by_completing_this_form_you_are_giving_us_permission_to_followup_by_phone_email_or_text">If
-                                            you don’t have an account please <a href=""> Signup </a> </label>
+                                
                                     </div>
                                 </div>
                             </div>
